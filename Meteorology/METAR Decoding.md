@@ -7,9 +7,9 @@ Meteorology
 
 ## Background
 
-METARs are an excellent source for weather information relevant to aerodrome operations (e.g., takeoff/landing
-cross winds and height and coverage of the clouds).  The goal of this exercise is to get you started decoding METARs as
-these are some easy marks on the exam if you do a bit of practice at it.
+Meterological terminal air reports (METARs) are an excellent source for weather information relevant to aerodrome
+operations (e.g., takeoff/landing cross winds and height and coverage of the clouds).  The goal of this exercise is
+to get you started decoding METARs as these are some easy marks on the exam if you do a bit of practice at it.
 
 ## Exercise
 
